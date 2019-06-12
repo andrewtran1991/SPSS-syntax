@@ -1,4 +1,4 @@
-﻿* Encoding: UTF-8.
+
 
 
 **Open the PAFAssessmentQ file**
@@ -125,10 +125,6 @@ EXECUTE.
 
 
 **Part 5**
-
-
-
-
 
 CROSSTABS
   /TABLES=ProviderSiteID2 BY ReferredBy rescode2 AttendanceCurr GradesCurr EmotionalDisturbance  
